@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Assamese Font Plugin
+ * Plugin Name: Lachit Assamese Font Plugin Lightweight
  * Description: A WordPress plugin for applying Assamese custom fonts (Rangmon, Jyotirupa, or uploaded fonts).
  * Version: 1.0
- * Author: Your Name
+ * Author: Himangshu Kalita
  */
 
 defined('ABSPATH') || exit;
